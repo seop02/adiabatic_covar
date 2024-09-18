@@ -31,4 +31,4 @@ At the last stage, the final energy computed by adiabatic CoVaR and the actual e
 
 
 
-[1]https://github.com/QTechTheory/QuESTlink
+[1]: https://github.com/QTechTheory/QuESTlink
