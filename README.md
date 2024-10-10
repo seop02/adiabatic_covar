@@ -1,7 +1,7 @@
 # Variational Eigenstate Preparation using Adiabatic CoVaR
 
-This is an implementation of the Adiabatic CoVaR.
-The works in this repository provides mathematica notebook that demonstrates the adiabatic CoVaR in [QuESTLink][1].
+This is an implementation of the Adiabatic CoVaR introduced in [this paper][1].
+The works in this repository provides mathematica notebook that demonstrates the adiabatic CoVaR in [QuESTLink][2].
 
 ## Brief explanation
 
@@ -30,5 +30,5 @@ At the last stage, the final energy computed by adiabatic CoVaR and the actual e
 
 
 
-
-[1]: https://github.com/QTechTheory/QuESTlink
+[1]: https://arxiv.org/abs/2409.16194
+[2]: https://github.com/QTechTheory/QuESTlink
